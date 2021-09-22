@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm watching you!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi1o&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi1o&&show_icons=true&title_color=ffffff&icon_color=f50250&text_color=10eaae&bg_color=010409&">
