@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="200" src="![▬▬ 𝐇𝐄𝐀𝐃𝐂𝐀𝐍𝐎𝐍𝐒](https://github.com/Abhi1o/chat/assets/87490161/3ced66e7-19b2-4a89-998d-43cd81b99835)
-"  />
+  <img height="300" border-radius="5" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/41343e02-88cf-47e9-8455-e70422ac77e8" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/1dd39ab8-eb2d-4084-88e7-624addf62545"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar!</h1>
@@ -20,7 +19,7 @@
 - 📄 Know about my [**experiences**](https://drive.google.com/file/d/1b0hb4DTmWNQhWmy7qmGL7nq42tbDT7zY/view)
 
 - ⚡ Fun fact **I can see you**
-
+<br>
 
 
 
@@ -70,7 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-
+<br>
 
 
 
@@ -87,19 +86,18 @@
 
 ###
 
-
-###
-
-
-
-
-
-###
-
 <img src="https://raw.githubusercontent.com/Abhi1o/Abhi1o/output/snake.svg" alt="Snake animation" />
 
+![snake gif](https://github.com/Abhi1o/Abhi1o/blob/output/github-contribution-grid-snake.svg)
+
 ###
 
+
+
+
+
+###
+<hr>
 <div>
  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhi1o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> </p><br>
   
@@ -111,12 +109,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&theme=github_dark" alt="abhi1o" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1o&theme=github_dark" alt="abhi1o" /></p><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=800&show_icons=true&locale=en&layout=compact&theme=github_dark" height="200" alt="abhi1o" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1o&theme=github_dark&card_width=450" alt="abhi1o" /></p>
+</div><br>
+
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=450&show_icons=true&locale=en&layout=compact&theme=github_dark" height="165" alt="abhi1o" />
 
 </div>
 
-###
+
 
 
 
