@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" border-radius="5" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/41343e02-88cf-47e9-8455-e70422ac77e8" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/1dd39ab8-eb2d-4084-88e7-624addf62545"  />
+  <img  border-radius="5" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/880ab955-db26-4d09-80b3-5149a5900d0b" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/1dd39ab8-eb2d-4084-88e7-624addf62545"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar!</h1>
@@ -7,9 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1o&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1o" /> </p>
 
-<h2 align="left">About me👨‍💻</h2>
-
+<h2 >About me👨‍💻</h2>
+<img align="right" height="240" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/62e7b9a9-9315-428e-bce6-05d37082de5a"/> 
+<div align="left" >
+  
 - 🌱 I’m currently learning **NodeJS**
+  
 - 👨‍💻 All of my projects are available at my [**Portfolio**](http://abhi1o.github.io/my)
 
 - 💬 Ask me about **React, JavaScript**
@@ -19,11 +22,12 @@
 - 📄 Know about my [**experiences**](https://drive.google.com/file/d/1b0hb4DTmWNQhWmy7qmGL7nq42tbDT7zY/view)
 
 - ⚡ Fun fact **I can see you**
+</div>
 <br>
 
 
 
-<h3 align="left">Languages and Tools 🗃:</h3><div>
+<h2 align="left">Languages and Tools 🗃:</h2><div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -74,7 +78,7 @@
 
 
 
-<h3 align="left">Connect with me 🤝:</h3>
+<h2 align="left">Connect with me 🤝:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/abhi--/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -98,26 +102,26 @@
 
 ###
 <hr>
+<h2>GitHub Stats</h2>
 <div>
- <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhi1o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> </p><br>
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=440&show_icons=true&locale=en&layout=compact&theme=github_dark" height="165" alt="abhi1o" /><p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&theme=github_dark" alt="abhi1o" />
+
+</div>
+<br>
+
+<div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1o&theme=github_dark&card_width=900" alt="abhi1o" />
+
+</div>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhi1o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> </p><br>
   
  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhi1o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> </p><br>
 <p>&nbsp;<img align="right" src="https://streak-stats.demolab.com?user=Abhi1o&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=4" height="150" alt="streak graph" /> </p><br>
 <p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi1o&locale=en&hide_title=false&card_width=450&langs_count=9&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  /></p>
 <br>
 -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&theme=github_dark" alt="abhi1o" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1o&theme=github_dark&card_width=450" alt="abhi1o" /></p>
-</div><br>
-
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=450&show_icons=true&locale=en&layout=compact&theme=github_dark" height="165" alt="abhi1o" />
-
-</div>
-
-
 
 
 
