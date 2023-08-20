@@ -1,9 +1,6 @@
 <div align="center">
-  <img  border-radius="5" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/880ab955-db26-4d09-80b3-5149a5900d0b" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/1dd39ab8-eb2d-4084-88e7-624addf62545"  />
+  <img  border-radius="5" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/45089d0c-9c97-4dea-b091-3d58e8855aea"  />
 </div>
-
-<h1 align="center">Hi 👋, I'm Abhishek Kumar!</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1o&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1o" /> </p>
 
@@ -105,10 +102,10 @@
 <h2>GitHub Stats</h2>
 <div>
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=440&show_icons=true&locale=en&layout=compact&theme=github_dark" height="165" alt="abhi1o" /><p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&theme=github_dark" alt="abhi1o" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=300&show_icons=true&locale=en&layout=compact&theme=github_dark" height="195" alt="abhi1o" /><p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&theme=github_dark" alt="abhi1o" />
 
 </div>
-<br>
+<br/>
 
 <div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1o&theme=github_dark&card_width=900" alt="abhi1o" />
