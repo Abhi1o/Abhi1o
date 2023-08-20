@@ -2,7 +2,7 @@
   <img  border-radius="5" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/45089d0c-9c97-4dea-b091-3d58e8855aea"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1o&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1o" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhi1o&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1o" /> </p>
 
 <h2 >About me👨‍💻</h2>
 <img align="right" height="240" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/62e7b9a9-9315-428e-bce6-05d37082de5a"/> 
@@ -87,8 +87,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abhi1o/Abhi1o/output/snake.svg" alt="Snake animation" />
-
 ![snake gif](https://github.com/Abhi1o/Abhi1o/blob/output/github-contribution-grid-snake.svg)
 
 ###
@@ -100,17 +98,15 @@
 ###
 <hr>
 <h2>GitHub Stats</h2>
-<div>
+
+<div align="center">
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=300&show_icons=true&locale=en&layout=compact&theme=github_dark" height="195" alt="abhi1o" /><p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&theme=github_dark" alt="abhi1o" />
+<img align="left" padding="0" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=380&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" height="195" alt="abhi1o" /><img align="right" padding="0" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&hide_border=true&theme=github_dark" alt="abhi1o" />
 
 </div>
-<br/>
 
-<div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1o&theme=github_dark&card_width=900" alt="abhi1o" />
+<img margin-top="50px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1o&theme=github_dark&card_width=900" alt="abhi1o" />
 
-</div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhi1o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> </p><br>
   
