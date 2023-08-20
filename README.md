@@ -101,7 +101,7 @@
 
 <div align="center">
  
-<img align="left" padding-right="0" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=320&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" height="195" alt="abhi1o" /><img align="right" padding-left="0" margin="50" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&hide_border=true&theme=github_dark" alt="abhi1o" />
+<img align="left" padding-right="0" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1o&card_width=300&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" height="195" alt="abhi1o" /><img align="right" padding-left="0" margin="50" src="https://github-readme-stats.vercel.app/api?username=abhi1o&card_width=450&show_icons=true&locale=en&hide_border=true&theme=github_dark" alt="abhi1o" />
 
 </div>
 
