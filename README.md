@@ -1,5 +1,5 @@
 <div align="center">
-  <img  border-radius="5" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/45089d0c-9c97-4dea-b091-3d58e8855aea"  />
+  <img  border-radius="5" src="https://github.com/Abhi1o/Abhi1o/assets/87490161/18eccdd3-8cb0-4f19-86b2-97ed96168c5a" alt="MY_BANNER"  />
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhi1o&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1o" /> </p>
