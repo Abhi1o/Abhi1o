@@ -50,11 +50,13 @@ Full-stack developer
 
 <br>
 
+[comment]: <> (snake animation https://platane.github.io/snk/)
+
 <div align="center">
 <picture >
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e621bea5-fd53-43a2-8877-53e122c2540c" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/48b1cbe9-8b45-489c-ac66-14ebdd80a047" />
-  <img alt="github-snake" src="https://github.com/user-attachments/assets/e621bea5-fd53-43a2-8877-53e122c2540c" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d7e85133-34e4-49a9-b4c8-aa676f5a0d9a" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6884f9c7-db35-4aa4-85a6-a9de93ec33f1" />
+  <img alt="github-snake" src="https://github.com/user-attachments/assets/d7e85133-34e4-49a9-b4c8-aa676f5a0d9a" />
 
  
 </picture>
